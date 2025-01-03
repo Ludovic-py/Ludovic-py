@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ludovic-py
-- 👀 I’m interested in 3d printer and programmable drone with the OpenCV python library
+- 👀 I’m interested in 3d printers and programmable drones with the OpenCV python library
 - 🌱 I’m currently learning C++ 
 - I like ♥ 3D prusa printers
 - contact me on ludovic.viguier19@gmail.com 
