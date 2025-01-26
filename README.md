@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Ludovic-py
-- 👀 I’m interested in 3d printers and programmable drones with the OpenCV python library
+- 👀 I’m interested in 3d and OpenCV python library
 - 🌱 I’m currently learning C++ 
 - I like ♥ 3D prusa printers
+- AI OG ✨✨
 - contact me on ludovic.viguier19@gmail.com 
 <!---
 Ludovic-py/Ludovic-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
