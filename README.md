@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ludovic-py
 - 👀 I’m interested in 3d and OpenCV python library
-- 🌱 I’m currently learning C++ 
 - I like ♥ 3D prusa printers
 - AI OG ✨✨
 - contact me on ludovic.viguier19@gmail.com 
